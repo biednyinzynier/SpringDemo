@@ -1,1 +1,1 @@
-Customer service class
+Customer service class has @Service annotation, Spring will automatically register the Service implementation thanks to component scanning. This customer service layer is layer for custom business logic. This can integrate data from multiple sources(DAOs).
